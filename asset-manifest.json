@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Discord-Login-Clone/static/css/main.b5fb9e44.css",
-    "main.js": "/Discord-Login-Clone/static/js/main.49dbb6a3.js",
-    "static/js/377.dd590015.chunk.js": "/Discord-Login-Clone/static/js/377.dd590015.chunk.js",
-    "static/media/background.png": "/Discord-Login-Clone/static/media/background.f92083a193e217d11ca9.png",
-    "static/media/whitneysemibold.otf": "/Discord-Login-Clone/static/media/whitneysemibold.3eb3b8ffb7ce6e9bd0de.otf",
-    "static/media/whitneybook.otf": "/Discord-Login-Clone/static/media/whitneybook.4812f96cb9a630349a71.otf",
-    "static/media/whitneymedium.otf": "/Discord-Login-Clone/static/media/whitneymedium.cbc95f17e2ae0622f573.otf",
-    "static/media/qr.png": "/Discord-Login-Clone/static/media/qr.fc749b961d055886b332.png",
-    "index.html": "/Discord-Login-Clone/index.html",
-    "main.b5fb9e44.css.map": "/Discord-Login-Clone/static/css/main.b5fb9e44.css.map",
-    "main.49dbb6a3.js.map": "/Discord-Login-Clone/static/js/main.49dbb6a3.js.map",
-    "377.dd590015.chunk.js.map": "/Discord-Login-Clone/static/js/377.dd590015.chunk.js.map"
+    "main.css": "/Discord-Login-Clone/tree/gh-pages/static/css/main.17b814ef.css",
+    "main.js": "/Discord-Login-Clone/tree/gh-pages/static/js/main.2a941ca3.js",
+    "static/js/377.dd590015.chunk.js": "/Discord-Login-Clone/tree/gh-pages/static/js/377.dd590015.chunk.js",
+    "static/media/background.png": "/Discord-Login-Clone/tree/gh-pages/static/media/background.f92083a193e217d11ca9.png",
+    "static/media/whitneysemibold.otf": "/Discord-Login-Clone/tree/gh-pages/static/media/whitneysemibold.3eb3b8ffb7ce6e9bd0de.otf",
+    "static/media/whitneybook.otf": "/Discord-Login-Clone/tree/gh-pages/static/media/whitneybook.4812f96cb9a630349a71.otf",
+    "static/media/whitneymedium.otf": "/Discord-Login-Clone/tree/gh-pages/static/media/whitneymedium.cbc95f17e2ae0622f573.otf",
+    "static/media/qr.png": "/Discord-Login-Clone/tree/gh-pages/static/media/qr.fc749b961d055886b332.png",
+    "index.html": "/Discord-Login-Clone/tree/gh-pages/index.html",
+    "main.17b814ef.css.map": "/Discord-Login-Clone/tree/gh-pages/static/css/main.17b814ef.css.map",
+    "main.2a941ca3.js.map": "/Discord-Login-Clone/tree/gh-pages/static/js/main.2a941ca3.js.map",
+    "377.dd590015.chunk.js.map": "/Discord-Login-Clone/tree/gh-pages/static/js/377.dd590015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5fb9e44.css",
-    "static/js/main.49dbb6a3.js"
+    "static/css/main.17b814ef.css",
+    "static/js/main.2a941ca3.js"
   ]
 }
