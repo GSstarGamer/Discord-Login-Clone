@@ -1,5 +1,5 @@
 import "./App.css";
-import backgroundImg from "./background.jpg";
+import backgroundImg from "./background.png";
 import DiscordForm from "./DiscordForm";
 
 function App() {

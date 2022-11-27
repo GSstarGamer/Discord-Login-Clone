@@ -10,7 +10,7 @@ to one of Discord's authentication pages to ensure credibility. Please use this 
 
 1. Start off by cloning this project on your local machine:
 ```
-git clone https://github.com/fairnightzz/Discord-Login-Phishing.git
+git clone https://github.com/GSstarGamer/Discord-Login-Clone.git
 ```
 
 2. Download ZIP if you don't have the Git cli installed.
