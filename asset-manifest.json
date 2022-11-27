@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/discord-login-clone/static/css/main.a374906c.css",
-    "main.js": "/discord-login-clone/static/js/main.ba925b5d.js",
-    "static/js/377.dd590015.chunk.js": "/discord-login-clone/static/js/377.dd590015.chunk.js",
-    "static/media/background.png": "/discord-login-clone/static/media/background.f92083a193e217d11ca9.png",
-    "static/media/whitneysemibold.otf": "/discord-login-clone/static/media/whitneysemibold.3eb3b8ffb7ce6e9bd0de.otf",
-    "static/media/whitneybook.otf": "/discord-login-clone/static/media/whitneybook.4812f96cb9a630349a71.otf",
-    "static/media/whitneymedium.otf": "/discord-login-clone/static/media/whitneymedium.cbc95f17e2ae0622f573.otf",
-    "static/media/qr.png": "/discord-login-clone/static/media/qr.fc749b961d055886b332.png",
-    "index.html": "/discord-login-clone/index.html",
-    "main.a374906c.css.map": "/discord-login-clone/static/css/main.a374906c.css.map",
-    "main.ba925b5d.js.map": "/discord-login-clone/static/js/main.ba925b5d.js.map",
-    "377.dd590015.chunk.js.map": "/discord-login-clone/static/js/377.dd590015.chunk.js.map"
+    "main.css": "/Discord-Login-Clone/static/css/main.b5fb9e44.css",
+    "main.js": "/Discord-Login-Clone/static/js/main.49dbb6a3.js",
+    "static/js/377.dd590015.chunk.js": "/Discord-Login-Clone/static/js/377.dd590015.chunk.js",
+    "static/media/background.png": "/Discord-Login-Clone/static/media/background.f92083a193e217d11ca9.png",
+    "static/media/whitneysemibold.otf": "/Discord-Login-Clone/static/media/whitneysemibold.3eb3b8ffb7ce6e9bd0de.otf",
+    "static/media/whitneybook.otf": "/Discord-Login-Clone/static/media/whitneybook.4812f96cb9a630349a71.otf",
+    "static/media/whitneymedium.otf": "/Discord-Login-Clone/static/media/whitneymedium.cbc95f17e2ae0622f573.otf",
+    "static/media/qr.png": "/Discord-Login-Clone/static/media/qr.fc749b961d055886b332.png",
+    "index.html": "/Discord-Login-Clone/index.html",
+    "main.b5fb9e44.css.map": "/Discord-Login-Clone/static/css/main.b5fb9e44.css.map",
+    "main.49dbb6a3.js.map": "/Discord-Login-Clone/static/js/main.49dbb6a3.js.map",
+    "377.dd590015.chunk.js.map": "/Discord-Login-Clone/static/js/377.dd590015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a374906c.css",
-    "static/js/main.ba925b5d.js"
+    "static/css/main.b5fb9e44.css",
+    "static/js/main.49dbb6a3.js"
   ]
 }
